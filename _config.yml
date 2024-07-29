@@ -1,5 +1,18 @@
 title: Mattia Olgiati
 description: Electroacoustic Composer & Performer
+lang: en
+
+# Layout
+
+show_social: true
+show_excerpts: false
+show_sidebar: true
+
+# Menu
+
+
+  
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
+- jekyll-feed
