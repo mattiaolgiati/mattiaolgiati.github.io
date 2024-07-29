@@ -1,5 +1,6 @@
 body{
     background-image: url('/img/sfondo.gif');
+    font-family: "Old Standard TT", serif;
 }
 .contenitore{
     width: 100%;
@@ -17,7 +18,7 @@ body{
     flex: 1;
 }
 h1{
-    font-size: 4em;
+    font-size: 3.5em;
 }
 a{
     color: black;
@@ -26,3 +27,21 @@ a{
 a:hover{
     background-color: white;
 }
+.old-standard-tt-regular {
+    font-family: "Old Standard TT", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .old-standard-tt-bold {
+    font-family: "Old Standard TT", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .old-standard-tt-regular-italic {
+    font-family: "Old Standard TT", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
