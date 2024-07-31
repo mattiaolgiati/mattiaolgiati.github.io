@@ -30,6 +30,7 @@ a:hover{
 table, th, td{
     border: 1px solid white;
     background-color: cadetblue;
+    text-align: center;
 }
 .old-standard-tt-regular {
     font-family: "Old Standard TT", serif;
