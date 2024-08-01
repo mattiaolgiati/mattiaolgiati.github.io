@@ -1,0 +1,46 @@
+body{
+    background-image: url('/img/sfondo_contatti.jpg');
+    font-family: "Old Standard TT", serif;
+}
+.contenitore{
+    width: 100%;
+}
+.riga{
+    margin-top: 20px;
+    display: flex;
+}
+.colonna1{
+    text-align: left;
+    flex: 1;
+}
+.colonna2{
+    text-align: right;
+    flex: 1;
+}
+h1{
+    font-size: 3.5em;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    background-color: white;
+}
+.old-standard-tt-regular {
+    font-family: "Old Standard TT", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .old-standard-tt-bold {
+    font-family: "Old Standard TT", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .old-standard-tt-regular-italic {
+    font-family: "Old Standard TT", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
